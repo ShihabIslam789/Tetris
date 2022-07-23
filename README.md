@@ -7,7 +7,7 @@ One player controlls the blocks to fall down the screen.
 
 ### Installation
 ```
-git clone https://github.com/ShihabIslam789/Tetris-game.git
+git clone https://github.com/ShihabIslam789/Tetris.git
 pip install Pygame
 ```
 ### Running The Game
