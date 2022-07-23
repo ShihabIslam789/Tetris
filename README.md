@@ -12,7 +12,7 @@ pip install Pygame
 ```
 ### Running The Game
 ```
-cd Tetris-game
+cd Tetris
 python main.py
 ```
 ![image](https://user-images.githubusercontent.com/56773545/179036352-9c1dcf94-3aab-4193-9259-1fcbe32ee7dc.png)
